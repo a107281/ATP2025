@@ -3,7 +3,7 @@
 ## Beatriz Maia Oliveira A107281
 
 ## Resumo
-O TPC2 consistiu em desenvolver o código, em Python, para o jogo dos 21 fósforos.
+- O TPC2 consistiu em desenvolver o código, em Python, para o jogo dos 21 fósforos.
 
 ### O jogo
 * No início do jogo, há 21 fósforos;

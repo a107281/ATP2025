@@ -1,4 +1,4 @@
-# TPC3: Aplicação para gerir um Cinema
+# TPC4: Aplicação para gerir um Cinema
 
 ## Beatriz Maia Oliveira A107281
 

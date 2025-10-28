@@ -7,8 +7,8 @@
 
 ### O programa
 Colocar numa aplicação externa ao notebook as seguintes funcionalidades:
-  - a) Calcula a temperatura média de cada dia, dando como resultado uma lista de pares: [(data, temperaturaMédia)];
-  - b) Define uma função para guardar uma tabela meteorológica num ficheiro de texto;
+(a) Calcula a temperatura média de cada dia, dando como resultado uma lista de pares: [(data, temperaturaMédia)];
+(b) Define uma função para guardar uma tabela meteorológica num ficheiro de texto;
   - c) Define uma função para carregar uma tabela meteorológica de um ficheiro de texto;
   - d) Calcula a temperatura mínima mais baixa registada na tabela, dando como resultado esse valor;
   - e) Calcula a amplitude térmica (diferença entre a temperatura máxima e a temperatura mínima) de cada dia, dando como resultado uma lista de pares: [(data, amplitude)];

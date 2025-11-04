@@ -5,7 +5,7 @@
 ## Resumo
 - O TPC7 consistiu em resolver um teste de aferição sobre os conhecimentos adquiridos até ao momento.
 
-### Programa
+### O programa
 - Listas em compreensão;
 - Funções;
 - Dicionários (rede social).
